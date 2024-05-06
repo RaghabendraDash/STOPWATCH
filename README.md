@@ -12,4 +12,3 @@ ABOUT THIS PROJECT-:
 2. In the Stopwatch, There are three buttons start, pause, and reset for operating the stopwatch.
 3. The main logic use in this stopwatch project is the set interval function.
 
-<---Thank you!!!--->

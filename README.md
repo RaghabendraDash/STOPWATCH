@@ -4,7 +4,6 @@ STOPWATCH (Made using HTML5 CSS3 and JavaScript)
 
 You can see the website live at: https://raghabendradash.github.io/STOPWATCH/
 
-Project demo video Link: https://www.youtube.com/watch?v=xARsJKIRLzg
 
 ABOUT THIS PROJECT-:
 
